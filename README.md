@@ -1,1 +1,2 @@
-# JAVA-Socket-Programming
+# Socket Programming by JAVA
+
